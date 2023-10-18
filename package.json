@@ -27,9 +27,9 @@
     "property order"
   ],
   "dependencies": {
-    "stylelint-order": "5.x"
+    "stylelint-order": "6.x"
   },
   "peerDependencies": {
-    "stylelint": ">=14"
+    "stylelint": ">=15"
   }
 }
