@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-yandex-plus-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yandex-based property sort order for Stylelint.",
   "license": "MIT",
   "author": {
