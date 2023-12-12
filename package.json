@@ -25,11 +25,5 @@
     "yandex",
     "properties-order",
     "property order"
-  ],
-  "dependencies": {
-    "stylelint-order": "6.x"
-  },
-  "peerDependencies": {
-    "stylelint": ">=15"
-  }
+  ]
 }
